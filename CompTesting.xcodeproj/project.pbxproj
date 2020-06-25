@@ -14,6 +14,7 @@
 		5182AE6F24A30855004DF7D2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5182AE6E24A30855004DF7D2 /* ViewController.swift */; };
 		5182AE7424A30857004DF7D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5182AE7324A30857004DF7D2 /* Assets.xcassets */; };
 		5182AE7724A30857004DF7D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5182AE7524A30857004DF7D2 /* LaunchScreen.storyboard */; };
+		51FC9B2D24A3C8720036AB88 /* SwipingActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51FC9B2C24A3C8720036AB88 /* SwipingActionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5182AE7324A30857004DF7D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5182AE7624A30857004DF7D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5182AE7824A30857004DF7D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51FC9B2C24A3C8720036AB88 /* SwipingActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipingActionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				5182AE7824A30857004DF7D2 /* Info.plist */,
 				5103B60824A367A400EEF2B0 /* MultipleSectionsListCollectionView.swift */,
 				5154F0E424A370DF009A7134 /* ListSectionHeaderViewController.swift */,
+				51FC9B2C24A3C8720036AB88 /* SwipingActionViewController.swift */,
 			);
 			path = CompTesting;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51FC9B2D24A3C8720036AB88 /* SwipingActionViewController.swift in Sources */,
 				5182AE6F24A30855004DF7D2 /* ViewController.swift in Sources */,
 				5182AE6B24A30855004DF7D2 /* AppDelegate.swift in Sources */,
 				5154F0E524A370DF009A7134 /* ListSectionHeaderViewController.swift in Sources */,
